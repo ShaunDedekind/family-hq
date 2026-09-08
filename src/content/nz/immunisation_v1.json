@@ -1,0 +1,92 @@
+{
+  "version": "1",
+  "jurisdiction": "NZ",
+  "source": "Health NZ National Immunisation Schedule (infant doses)",
+  "schedule": [
+    {
+      "code": "6w_dtap",
+      "label": "6 weeks — DTaP-IPV-HepB/Hib (dose 1)",
+      "weeksFromBirth": 6
+    },
+    {
+      "code": "6w_pneumo",
+      "label": "6 weeks — Pneumococcal (dose 1)",
+      "weeksFromBirth": 6
+    },
+    {
+      "code": "6w_rota",
+      "label": "6 weeks — Rotavirus (dose 1)",
+      "weeksFromBirth": 6
+    },
+    {
+      "code": "3m_dtap",
+      "label": "3 months — DTaP-IPV-HepB/Hib (dose 2)",
+      "weeksFromBirth": 12
+    },
+    {
+      "code": "3m_menb",
+      "label": "3 months — Meningococcal B (dose 1)",
+      "weeksFromBirth": 12
+    },
+    {
+      "code": "3m_rota",
+      "label": "3 months — Rotavirus (dose 2)",
+      "weeksFromBirth": 12
+    },
+    {
+      "code": "5m_dtap",
+      "label": "5 months — DTaP-IPV-HepB/Hib (dose 3)",
+      "weeksFromBirth": 20
+    },
+    {
+      "code": "5m_pneumo",
+      "label": "5 months — Pneumococcal (dose 2)",
+      "weeksFromBirth": 20
+    },
+    {
+      "code": "5m_menb",
+      "label": "5 months — Meningococcal B (dose 2)",
+      "weeksFromBirth": 20
+    },
+    {
+      "code": "12m_mmr",
+      "label": "12 months — MMR (dose 1)",
+      "weeksFromBirth": 52
+    },
+    {
+      "code": "12m_pneumo",
+      "label": "12 months — Pneumococcal (dose 3)",
+      "weeksFromBirth": 52
+    },
+    {
+      "code": "12m_hib",
+      "label": "12 months — Hib booster",
+      "weeksFromBirth": 52
+    },
+    {
+      "code": "15m_mmr",
+      "label": "15 months — MMR (dose 2)",
+      "weeksFromBirth": 65
+    },
+    {
+      "code": "15m_var",
+      "label": "15 months — Varicella",
+      "weeksFromBirth": 65
+    },
+    {
+      "code": "15m_hib",
+      "label": "15 months — Hib booster",
+      "weeksFromBirth": 65
+    },
+    {
+      "code": "4y_dtap",
+      "label": "4 years — DTaP-IPV booster",
+      "weeksFromBirth": 208
+    },
+    {
+      "code": "4y_mmr",
+      "label": "4 years — MMR booster",
+      "weeksFromBirth": 208
+    }
+  ]
+}
